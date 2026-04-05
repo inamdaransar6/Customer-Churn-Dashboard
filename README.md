@@ -58,13 +58,13 @@ Monitor high monthly charge customers closely
 ##📷 Dashboard Preview
 
 
-![Dashboard Page 1]
+![Dashboard Page 1](![Dashboard Page 1])
 
 
-![Dashboard Page 2]
+![Dashboard Page 2](![Dashboard Page 2])
 
 
-![Dashboard Page 3]
+![Dashboard Page 3](![Dashboard Page 3])
 
 
 ##🚀 Project Outcome
