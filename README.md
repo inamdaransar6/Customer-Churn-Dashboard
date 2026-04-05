@@ -64,7 +64,7 @@ Monitor high monthly charge customers closely
 ![Dashboard Page 2](https://github.com/inamdaransar6/Customer-Churn-Dashboard/blob/main/Dashboard2.png)
 
 
-![Dashboard Page 3](![Dashboard Page 3])
+![Dashboard Page 3](https://github.com/inamdaransar6/Customer-Churn-Dashboard/blob/main/Dashboard3.png)
 
 
 ##🚀 Project Outcome
