@@ -40,8 +40,8 @@ Provide incentives for automatic payment methods
 Offer loyalty benefits for new customers
 Monitor high monthly charge customers closely
 📷 Dashboard Preview
-![Customer Churn Dashboard]("D:\Dashboard1.png")
-![Customer Churn Dashboard]("D:\Dashboard2.png")
-![Customer Churn Dashboard]("D:\Dashboard3.png")
+("D:\Dashboard1.png")
+("D:\Dashboard2.png")
+("D:\Dashboard3.png")
 🚀 Project Outcome
 This dashboard enables businesses to proactively identify churn risks and design targeted retention strategies, improving customer satisfaction and revenue stability.
